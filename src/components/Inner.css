@@ -1,0 +1,8 @@
+/* Inner.css */
+.carousel {
+    margin-top: 10px;
+    width: 100%; /* Set your desired max-width */
+    margin: 0 auto; /* Center the carousel */
+    padding: 5px;
+  }
+  
